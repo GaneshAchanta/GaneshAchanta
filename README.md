@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sivarama Ganesh Achanta</h1>
 <h3 align="center">Senior ServiceNow Developer from India</h3>
 
-- 📫 How to reach me **ganesh.achanta2001@gmail.com**
+- 📫 How to reach me **helloo.ganesh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
