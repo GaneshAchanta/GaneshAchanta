@@ -5,7 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/siva-rama-ganesh-achanta-92814b260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siva-rama-ganesh-achanta-92814b260/" height="30" width="40" /></a>
 <a href="https://instagram.com/rejected_piece_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rejected_piece_01" height="30" width="40" /></a>
 </p>
 
