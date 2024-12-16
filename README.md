@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sivarama Ganesh Achanta</h1>
+<h1 align="center">Hi 👋, I'm Ganesh Achanta</h1>
 <h3 align="center">Senior ServiceNow Developer from India</h3>
 
 - 📫 How to reach me **helloo.ganesh@gmail.com**
